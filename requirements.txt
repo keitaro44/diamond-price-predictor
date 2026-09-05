@@ -1,0 +1,14 @@
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.2.1
+matplotlib==3.7.0
+seaborn==0.12.2
+fastapi[all]==0.95.0
+uvicorn==0.21.1
+python-multipart==0.0.5
+pydantic==1.10.5
+pytest==7.2.1
+pycodestyle==2.10.0
+anyio==3.7.1
+starlette==0.26.1
+httpx==0.24.1
